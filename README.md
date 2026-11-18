@@ -82,8 +82,9 @@ Also in the app, shown here in words because the screens are personal:
   keeps building. Buddy's own features get built this way.
 - **Nothing gets solved twice.** A fix or a decision from one session is in the wiki for the next.
 - **It keeps me posting.** The post, the image and the video are ready before I think about them.
-- **Real conversations started.** Outreach got replies from founders and CEOs, and one of them
-  offered paid work.
+- **Real connections made.** Outreach connected me with many people in my field. A founder-finder
+  agent picks out the founders worth talking to, so the warm leads come to me. I call them the
+  fishes in the net.
 - **It got me an interview.** The Job Agent applied on my job sites while I slept and watched for
   replies. One reply was a referral offer, and that referral became an interview. The interview
   showed me what to practise, so Buddy got an Interview Coach.
