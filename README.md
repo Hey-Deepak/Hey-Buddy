@@ -90,8 +90,9 @@ Also in the app, shown here in words because the screens are personal:
   showed me what to practise, so Buddy got an Interview Coach.
 - **My portfolio is live.** The website builder made heydeepak.dev from my resume and keeps the
   two in step, and my profiles say the same thing everywhere.
-- **A wedding surprise.** The Insta manager made an animated pixel-art video of my friends and me
-  for a friend's wedding. He did not see it coming.
+- **A wedding surprise.** The Insta manager made a reel for a friend's wedding from start to
+  finish: it downloaded the clips, edited them, uploaded the reel and tagged everyone. He did not
+  see it coming.
 - **Ideas don't get lost.** I capture them in a line and Buddy tells me which ones to act on.
 - **I know what I ate.** Logging a meal is one photo, so I actually do it.
 
