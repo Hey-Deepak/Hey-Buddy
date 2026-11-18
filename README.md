@@ -8,11 +8,11 @@ write posts, find work, track my food and remember what they learn. Anything tha
 machine waits for my tap.
 
 <p align="center">
-  <a href="assets/film/hey-buddy-film.mp4">
+  <a href="https://hey-deepak.github.io/Hey-Buddy/assets/film/hey-buddy-film.mp4">
     <img src="assets/film/hey-buddy-film-poster.jpg" width="720" alt="Play the film: Buddy and his team of agents on a desk next to a Mac">
   </a>
 </p>
-<p align="center"><a href="assets/film/hey-buddy-film.mp4"><b>▶ Watch the 3-minute film</b></a><br><sub>What Buddy is, how it got here, and a normal day with it.</sub></p>
+<p align="center"><a href="https://hey-deepak.github.io/Hey-Buddy/assets/film/hey-buddy-film.mp4"><b>▶ Watch the 3-minute film</b></a><br><sub>What Buddy is, how it got here, and a normal day with it.</sub></p>
 
 <p align="center">
   <img src="assets/screens/store-guild.png" width="300" alt="Buddy's guild: every agent as a pixel-art hero with its level and record">
